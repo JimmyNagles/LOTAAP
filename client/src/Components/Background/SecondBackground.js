@@ -3,7 +3,7 @@ import React from "react";
 function SecondBackground(props) {
   return (
     <div
-      className="white"
+      className="white-text"
       style={{
         width: "100%",
         height: "100%",
